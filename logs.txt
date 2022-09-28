@@ -1,0 +1,5 @@
+haven't uploaded the project yet
+crud function, login, register
+celery to gcalender reminder
+compose yml file
+deployment on PythonAnywhere.com
